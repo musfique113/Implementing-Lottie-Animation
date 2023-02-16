@@ -11,7 +11,7 @@
    <com.airbnb.lottie.LottieAnimationView
        android:layout_width="match_parent"
        android:layout_height="650dp"
-       app:lottie_rawRes="@raw/dlivery_man"
+       app:lottie_rawRes="@raw/preloader"
        app:lottie_autoPlay="true"
        app:lottie_loop="true"
        ></com.airbnb.lottie.LottieAnimationView>

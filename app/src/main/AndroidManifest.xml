@@ -12,6 +12,9 @@
         android:theme="@style/Theme.AnimationUsingLottie"
         tools:targetApi="31">
         <activity
+            android:name=".ANItHREE"
+            android:exported="false" />
+        <activity
             android:name=".animationTwo"
             android:exported="false" />
         <activity
