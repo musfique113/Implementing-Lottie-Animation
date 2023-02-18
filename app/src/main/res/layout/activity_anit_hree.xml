@@ -9,11 +9,10 @@
     tools:context=".ANItHREE">
 
     <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/checkDone"
         android:layout_width="match_parent"
         android:layout_height="650dp"
         app:lottie_rawRes="@raw/checked_red"
-        app:lottie_autoPlay="true"
-        app:lottie_loop="true"
         ></com.airbnb.lottie.LottieAnimationView>
 
     <Button
